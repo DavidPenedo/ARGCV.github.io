@@ -13,8 +13,9 @@ html{
 /* Secciones  PRIMERA HOJA*/
 
 #inicio{
-    background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)); 
+     
     background-image: url(./img/fondoinicio.jpg);
+    background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .7));
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -353,7 +354,8 @@ background-color: rgb(42, 64, 164);
 
 
 .contacto {
-    background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/fondoinicio2.jpg);
+    background-image: url(./img/fondoinicio2.jpg);
+    background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .7));
     background-size: cover;
     padding: 170px;
     text-align: center;
